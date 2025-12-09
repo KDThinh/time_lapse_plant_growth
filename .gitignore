@@ -1,0 +1,13 @@
+# Ignore the output folders where images are saved
+timelapse_frames/
+my_timelapse/
+plant_growth/
+plant_growth_hub/
+timelapse_eco/
+
+# Ignore Python system files
+__pycache__/
+*.pyc
+venv/
+.env
+.DS_Store
